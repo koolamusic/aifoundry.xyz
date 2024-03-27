@@ -71,7 +71,7 @@ export function LandingHero() {
   );
 }
 
-const FAQSection = () => {
+export const FAQSection = () => {
   return (
     <div className="mx-auto mt-32 max-w-7xl px-6 sm:mt-56 lg:px-8">
       <div className="mx-auto max-w-4xl divide-y divide-gray-900/10">
