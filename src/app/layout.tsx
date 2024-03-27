@@ -20,7 +20,7 @@ export const metadata = {
   title: "The AI Foundry",
   description:
     "AI community exploring ideas on how to monetize AI and maximize productivity using frontier technology",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
+  icons: [{ rel: "icon", url: "/icon.png" }],
 };
 
 export default function RootLayout({
