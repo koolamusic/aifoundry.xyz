@@ -31,7 +31,7 @@ export default function RouterPage() {
   );
 }
 
-export function SubstackFeedEmbed() {
+function SubstackFeedEmbed() {
   return (
     <div className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -72,7 +72,7 @@ export function SubstackFeedEmbed() {
   );
 }
 
-export function DarkSplitHero() {
+function DarkSplitHero() {
   return (
     <div className="relative isolate overflow-hidden bg-black">
       <svg
